@@ -7,4 +7,6 @@ Foo *bar*
 
 [Read more foo](foo.md)
 
+Test text
+
 ![Kitten](kitten.jpg)
