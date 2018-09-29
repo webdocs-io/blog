@@ -9,4 +9,4 @@ Foo *bar*
 
 Test text
 
-![Kitten](kitten.jpg =250x)
+![Kitten](kitten.jpg =250x250)
