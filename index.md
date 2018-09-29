@@ -6,3 +6,5 @@ title = "This is a title"
 Foo *bar*
 
 [Read more foo](foo.md)
+
+![Kitten](kitten.jpg)
